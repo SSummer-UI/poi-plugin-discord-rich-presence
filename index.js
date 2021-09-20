@@ -4,9 +4,9 @@ const rpc = new RPC.Client({
 })
 
 rpc.on("ready", () => {
-    rpc.setActivity({//Actual activity status
+    rpc.setActivity({//Literal activity status
         state: "E1 難易度：甲",
-        details: "艦隊これくしょん 2021年 夏イベ攻略中",
+        details: "艦これ2021年夏イベ",
         startTimestamp: Date.now(),
         endTimestamp: 1633117826000,
         largeImageKey: "kuma",
@@ -16,7 +16,7 @@ rpc.on("ready", () => {
         partyId: "ae488379-351d-4a4f-ad32-2b9b01c91657",
         partySize: 1,
         partyMax: 3,
-        joinSecret: "MTI4NzM0OjFpMmhuZToxMjMxMjM= ",// Placeholder provided by sample code
+        joinSecret: "MTI4NzM0OjFpMmhuZToxMjMxMjM= ",// Placeholder provided by discord-rpc sample code
     })
 
     console.log("RPC active");
