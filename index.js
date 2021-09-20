@@ -4,7 +4,7 @@ const rpc = new RPC.Client({
 })
 
 rpc.on("ready", () => {
-    rpc.setActivity({
+    rpc.setActivity({//Actual activity status
         state: "E3 難易度：丙",
         details: "Clearing Spring 2021 KC Event",
         startTimestamp: Date.now(),
@@ -23,5 +23,5 @@ rpc.on("ready", () => {
 })
 
 rpc.login({
-    clientId: "889601466631868436"
+    clientId: "889601466631868436" // Application ID under https://discord.com/developers/applications/889601466631868436/information
 })
