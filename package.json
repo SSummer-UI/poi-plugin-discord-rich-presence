@@ -4,8 +4,7 @@
   "description": "RP for POI",
   "main": "index.js",
   "dependencies": {
-    "discord-rpc": "github:discordjs/rpc",
-    "nodemon": "^2.0.12"
+    "discord-rpc": "github:discordjs/rpc"
   },
   "scripts": {
     "test": "node index.js",
