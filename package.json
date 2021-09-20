@@ -1,7 +1,7 @@
 {
   "name": "poi-plugin-discord-rich-presence",
-  "version": "1.0.0",
-  "description": "RP for POI",
+  "version": "0.0.1",
+  "description": "Poi plugin update your discord status with a rich presence.",
   "main": "index.js",
   "dependencies": {
     "discord-rpc": "github:discordjs/rpc"
