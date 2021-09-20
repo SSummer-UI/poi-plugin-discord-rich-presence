@@ -23,5 +23,5 @@ rpc.on("ready", () => {
 })
 
 rpc.login({
-    clientId: "889601466631868436" // Application ID under https://discord.com/developers/applications/889601466631868436/information
+    clientId: "889613541357781002" // Application ID under https://discord.com/developers/applications/889613541357781002/information
 })
