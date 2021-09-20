@@ -5,19 +5,17 @@ const rpc = new RPC.Client({
 
 rpc.on("ready", () => {
     rpc.setActivity({
-        details: "Editing Sequence 2",
-        state: "Untitled.vpj",
-        largeImageKey: "image",
-        largeImageText: "Using Videopad Pro v 8.63",
-        state: "Playing Solo",
-        details: "Competitive",
+        state: "E3 難易度：丙",
+        details: "Clearing Spring 2021 KC Event",
         startTimestamp: Date.now(),
         endTimestamp: 1633117826000,
-        largeImageText: "Numbani",
-        smallImageText: "Rogue - Level 100",
+        largeImageKey: "kuma",
+        largeImageText: "球磨改二",
+        smallImageKey: "patriotcircle",
+        smallImageText: "RSWIB",
         partyId: "ae488379-351d-4a4f-ad32-2b9b01c91657",
-        partySize: 1,
-        partyMax: 5,
+        partySize: 2,
+        partyMax: 4,
         joinSecret: "MTI4NzM0OjFpMmhuZToxMjMxMjM= ",
     })
 
@@ -25,5 +23,5 @@ rpc.on("ready", () => {
 })
 
 rpc.login({
-    clientId: "776550128071999519"
+    clientId: "889601466631868436"
 })
