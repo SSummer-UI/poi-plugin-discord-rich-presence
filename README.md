@@ -1,6 +1,8 @@
 # POI Plugin - Discord Rich Presence
 Poi plugin update your discord status with a rich presence.
 
+艦隊これくしょん 艦これ 専用ブラウザ POIのディスコードRPCプラグイン
+
 ## Installation:
 
 ### POI Installation:
