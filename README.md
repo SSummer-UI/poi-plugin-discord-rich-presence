@@ -4,6 +4,9 @@ Poi plugin update your discord status with a rich presence.
 ## Installation:
 
 ### POI Installation:
+
+`poi-plugin-discord-rich-presence`
+
 ![image](https://user-images.githubusercontent.com/33806410/134211302-f8ddbaaa-9d7c-4ff9-911c-8f1d3ef615a3.png)
 
 ### Manual Installation:
