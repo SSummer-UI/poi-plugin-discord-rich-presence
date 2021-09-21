@@ -3,6 +3,8 @@ Poi plugin update your discord status with a rich presence.
 
 艦隊これくしょん 艦これ 専用ブラウザ POIのディスコードRPCプラグイン
 
+![image](https://user-images.githubusercontent.com/72781410/134244101-eb576599-9da9-4629-aecf-47b073f0eb76.png)
+
 ## Installation:
 
 ### POI Installation:
